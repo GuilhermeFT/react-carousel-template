@@ -45,3 +45,9 @@ fim.A solução consiste em usar recursos básicos do React para entregar
 algo simples e que pode ser personalizável.
 
 I created this project to have a simple a simple Carousel template in ReactJS without using libraries for this purpose. The solution is to use basic React features to deliver something simple and customizable.
+
+<br>
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
